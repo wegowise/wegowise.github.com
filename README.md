@@ -1,2 +1,0 @@
-wegowise.github.com
-===================
